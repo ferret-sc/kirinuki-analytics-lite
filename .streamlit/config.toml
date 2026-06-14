@@ -2,9 +2,6 @@
 [browser]
 gatherUsageStats = false
 
-[server]
-headless = false
-
 [theme]
 base = "light"
 primaryColor = "#FF6B81"
