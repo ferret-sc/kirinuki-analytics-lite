@@ -1,1 +1,14 @@
+# きりぬき分析ライト Streamlit設定
+[browser]
+gatherUsageStats = false
 
+[server]
+headless = false
+
+[theme]
+base = "light"
+primaryColor = "#FF6B81"
+backgroundColor = "#FAFAFA"
+secondaryBackgroundColor = "#FFF5F6"
+textColor = "#3A3A3A"
+font = "sans serif"
